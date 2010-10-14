@@ -5,3 +5,6 @@ Copyright: ©2010 Intellum, Inc.
 
 This is a simple 'Hello World' sproutcore application that was modified to become an OpenSocial application that can be deployed into any OpenSocial container such as GroupDock or iGoogle.
 
+For more info, read this tutorial:
+http://dev.groupdock.com/tutorials/sproutcore-opensocial-hello-world.html
+
