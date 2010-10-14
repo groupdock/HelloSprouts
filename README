@@ -1,7 +1,7 @@
 =============================================================================
 Project:   HelloSprouts
-Copyright: ©2010 My Company, Inc.
+Copyright: ©2010 Intellum, Inc.
 =============================================================================
 
-TODO: Describe Your Project
+This is a simple 'Hello World' sproutcore application that was modified to become an OpenSocial application that can be deployed into any OpenSocial container such as GroupDock or iGoogle.
 
